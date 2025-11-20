@@ -1,0 +1,21 @@
+.main-header {
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+    color: #1f77b4;
+    margin-bottom: 2rem;
+}
+
+.sub-header {
+    font-size: 1.5rem;
+    color: #666;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.metric-card {
+    background-color: #f0f2f6;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    margin: 0.5rem 0;
+}
